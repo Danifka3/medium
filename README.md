@@ -1,2 +1,2 @@
-# www
+# Medium
 Landing page study project
