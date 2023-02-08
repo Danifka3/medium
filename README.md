@@ -1,2 +1,2 @@
 # www
-Lending study project
+Landing page study project
