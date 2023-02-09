@@ -80,13 +80,13 @@ body {
     box-sizing: border-box;
 }
 
-.title--main {
+.title-main {
     font-size: 55px;
     color: #202020;
     font-weight: 700;
 }
 
-.description--main {
+.description-main {
     max-width: 750px;
     font-size: 32px;
     line-height: 1.5;
