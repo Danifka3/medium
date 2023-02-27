@@ -1,2 +1,2 @@
-# www
-Lending study project
+# Medium
+Landing page study project
